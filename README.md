@@ -9,4 +9,4 @@ Skill Swap App is a mobile application that enables users to exchange knowledge 
 |                 |               |                                                            |                            
 | Muhammad Fuzail | B24S0540CS030 | [@MuhammadFuzail288](https://github.com/MuhammadFuzail288) | Lead Developer & Git Admin 
 | Rabia Rafaqat   | B24S0230CS002 | [@RabiaRafaqat](https://github.com/RabiaRafaqat)           | UI/UX & Style Guide Designer 
-| Javeria Imran   | B24S0524CS003 | [@JaveriaImran](https://github.com/JaveriaImran)           | Database Architect & Requirements Lead 
+| Javeria Imran   | B24S0524CS003 | [@Javer1x](https://github.com/Javer1x)           | Database Architect & Requirements Lead 
